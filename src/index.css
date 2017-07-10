@@ -3,3 +3,13 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+path.countries {
+   stroke-width: 1;
+   stroke: #75739F;
+   fill: #5EAFC6;
+}
+
+#map {
+  margin-left: 20%;
+}
